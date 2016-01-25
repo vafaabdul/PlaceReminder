@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Place Reminder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcomeLbl">Place Reminder</string>
+    <string-array name="radiusArray">
+        <item>"100"</item>
+        <item>"500"</item>
+        <item>"1000"</item>
+        <item>"2000"</item>
+        <item>"3000"</item>
+    </string-array>
+
+    <string name="addLocationLabel">Add new Location :</string>
+    <string name="btnAdd">Add New Location</string>
+    <string name="btnDelete">Delete Locations</string>
+    <string name="existingPlacesLbl">Existing Locations :</string>
+    <string name="notificationLbl">Notification radius (in Meters):</string>
+    <string name="headerLbl">Choose Location From Map:</string>
+    <string name="btnSave">Save Location</string>
+    <string name="not_connected">GoogleApiClient no yet connected. Try again.</string>
+    <string name="geofence_transition_notification_text">Click notification to return to app</string>
+    <string name="geofence_transition_entered">Entered</string>
+    <string name="geofence_transition_exited">Exited</string>
+    <string name="unknown_geofence_transition">Unknown Transition</string>
+    <string name="nameLblContent">Enter Location Name :</string>
+    <string name="locationNameHint">Location Name</string>
+    <string name="name_Val_Error">Enter a Location Name for Saving !!</string>
+
+</resources>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-097f60d5936b127b8ae6fe19c5dd51af126d7b01.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-79cff50f07959824cfa12445f5e58edc79410bb0.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-b3042d7ea4ce05b183c92a025b9dd3550f7ebb68.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-606ae1aa41a0d89a4dbdb78f36e339d146b02181.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-df70b1d526f8e5fd4ea25cb6ed8604b6bc704f6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-f6d10cab0c6ce5976fb5a91096c89d789c9ac692.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-f0de8bb156c45bc7e48dc2e63bea2be8c0ef6e52.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-28560d74d8cdfd1af8bda16b90a2b4f3f67ff20d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-73473ba0b054a8ecd0ab6886e9bc4b11d5a8a453.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-4f11b3aa5acacb3be4bfeb9a0a9e00c14048e6f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-22f0d819e769e1eb7dc7d9f31c7f71171ca79139.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-a65e8669fac09001aecded7956585bb9ec25d9a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-8881a214693ddcca91b61356dd49e421724f12dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-1b88c2b32fd80752cd7023ae5d653d1da174c9c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-dad9d4f58d33899ae0bdbb0cd8e888d73efa0509.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-90e6172e942e7c3a629b07ac0d76c4f516fa269c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-4069ac70a070a88a0391f50a83aa8bdbfb33c72d.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-cd488943b83580142c0fe7ef253b155e93a3d676.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-e2a3106ed23cfec3fbf14f1ac86094d06c6ddc19.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-a36abec6ee3f8c5ca127095ad484f06c2b28795c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-e447969027030ddde4164fee87eb34b94a0020d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-d6d0a4906c15238ed28ddf9c43f37778cde9e71c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\classes-84486c5014968b4853cd9a27bb274e084609fd69.jar" />
+    </item>
+    <item
+        jar="A:\Android\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\ROHITHENGU\AndroidStudioProjects\MyApplication3\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-22eec7ba15f8fe05b0274a04800245a78b994622.jar" />
+    </item>
+
+</items>
